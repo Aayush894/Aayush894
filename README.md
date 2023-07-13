@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aayush-shrivastava-435389252/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Aayush Shrivastava" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/aayush2005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aayush2005" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/aayush2005" target="blank"><img align="center" src="https://yt3.googleusercontent.com/Lkx3tvgHdRADC3wXQ5TfJZRTeH4nboEPA_-eJChOZ6jRkOdY35lcg014Whj36rHFXhrHY1T_4cs=s900-c-k-c0x00ffffff-no-rj" alt="aayush2005" height="40" width="40" /></a>
 <a href="https://leetcode.com/aayush_shrivastava/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="AAYUSH_SHRIVASTAVA" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aayushj1sx" target="blank"><img align="center" src="https://img.icons8.com/color/480w/GeeksforGeeks.png" alt="aayushj1sx" height="30" width="40" /></a>
 </p>
