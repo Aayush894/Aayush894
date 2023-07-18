@@ -1,4 +1,5 @@
-![background](https://github.com/Aayush894/Aayush894/assets/114735569/e44a8c3a-d116-4e61-b3cd-f0a9cc0185e5)
+![banner github](https://github.com/Aayush894/Aayush894/assets/114735569/e35441fc-5d48-4d45-9451-1dc3589b29c3)
+
 <h1 align="center">Hi 👋, I'm Aayush Kumar Shrivastava</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
